@@ -1,6 +1,6 @@
 # **Customer Segmentation**
 <br>
- <h2> ***Dataset description and source ***</h2>
+ <h2> Dataset description and source </h2>
  <hr>   
 The dataset used in this demonstration can be found in the UCI machine learning repository and it can be accessed via <a href = 'http://archive.ics.uci.edu/ml/datasets/Online+Retail'>this link</a>.
 <br><br>
